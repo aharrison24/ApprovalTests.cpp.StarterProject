@@ -1,5 +1,5 @@
-#include "ApprovalTests.hpp"
-#include "Catch.hpp"
+#include <ApprovalTests/ApprovalTests.hpp>
+#include <Catch.hpp>
 #include <ostream>
 
 TEST_CASE("DemoSimpleTestCase")
